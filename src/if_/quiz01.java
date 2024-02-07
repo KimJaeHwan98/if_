@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	if(num>num1) System.out.println(num+":이 더 큰수입니다.");
 	if(num<num1) System.out.println(num1+":이 더 큰수입니다");
 	
-	System.out.println("세수를 입력 받아 큰 수를 출력하시오");
+	System.out.println("세수를 입력 받아 큰 수를 출력하시오");//&& = 그리고 || = or 둘중 하나가 트루이면 트루
 	int num3 = input.nextInt();
 	int num4 = input.nextInt();
 	int num5 = input.nextInt();
